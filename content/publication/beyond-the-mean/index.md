@@ -1,6 +1,6 @@
 +++
 title = "Looking beyond the mean: Drivers of variability in postfire stand development of conifers in Greater Yellowstone"
-date = "2018-12-15"
+date = "2018-08-18"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
