@@ -6,7 +6,7 @@ title = "Abrupt change in ecological systems"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Specific project: Wisconsin agricultural system responses to climate change and extreme events. Funded by Wisconsin Alumni Research Foundation (UW2020 Initiative)."
+summary = "Specific project: Wisconsin agricultural system responses to climate change and extreme events. Funded by Wisconsin Alumni Research Foundation (UW2020 Initiative). Photo: Sam Zipper"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
