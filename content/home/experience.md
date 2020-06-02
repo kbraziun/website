@@ -19,9 +19,9 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Member""
+  title = "Member"
   company = "IALE-North America Equity, Inclusion, and Diversity Committee"
-  company_url = "http://www.usiale.org/"
+  company_url = "http://www.ialena.org/"
   location = " "
   date_start = "2020-01-01"
   date_end = ""
