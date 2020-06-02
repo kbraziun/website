@@ -65,7 +65,7 @@ enableGitInfo = false
   email = "braziunas@wisc.edu"
   address = "433 Birge Hall\n430 Lincoln Drive\nMadison WI 53706"
   office_hours = ""
-  phone = "(608) 265-8001"
+  phone = ""
   skype = "KBraziunas"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -269,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/BraziunasCV.pdf"
+     link = "files/KristinBraziunasCV.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
