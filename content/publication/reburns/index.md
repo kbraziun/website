@@ -1,5 +1,5 @@
 +++
-title = "It takes a few to tango: changing climate and fire regimes can cause regeneration failure of two subalpine conifers"
+title = "Short-interval severe fire erodes the resilience of subalpine lodgepole pine forests"
 date = 2019-05-20
 draft = false
 
