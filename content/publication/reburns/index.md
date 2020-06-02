@@ -1,10 +1,10 @@
 +++
 title = "It takes a few to tango: changing climate and fire regimes can cause regeneration failure of two subalpine conifers"
-date = 2018-02-21
+date = 2019-05-20
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["MG Hansen", "KH Braziunas", "WD Hansen", "BJ Harvey"]
+authors = ["MG Turner", "KH Braziunas", "WD Hansen", "BJ Harvey"]
 
 # Publication type.
 # Legend:
@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/Turner_etal2019PNAS_Reburns&SI.pdf"
+url_pdf = "/files/Turner_etal2019PNAS_Reburns&SI.pdf"
 # url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 # url_code = "#"
 url_dataset = "https://doi.org/10.6073/pasta/a1b7791376a04ce8c6ea9043547bb6af"

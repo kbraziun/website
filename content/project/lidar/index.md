@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Using LiDAR to explore relationships between fuels and fire severity in a short-interval reburn"
+title = "Using LiDAR to explore fuels and burn severity in a subalpine forest reburn"
 
 # Date this page was created.
 date = 2018-10-30
